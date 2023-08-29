@@ -4,7 +4,7 @@ This slot machine project is a Python program that simulates the functionality o
 It allows users to deposit an initial balance and play rounds of the slot machine until they decide to quit. 
 Here's an overview of the project's key components and functionalities:
 
-#Initialization Constants:
+Initialization Constants:
    - `MAX_LINES`: Maximum number of lines a player can bet on.
    - `MAX_BET`: Maximum amount a player can bet on each line.
    - `MIN_BET`: Minimum amount a player can bet on each line.

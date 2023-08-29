@@ -1,8 +1,8 @@
 # slot_machine
 
-# This slot machine project is a Python program that simulates the functionality of a simple slot machine game. 
-# It allows users to deposit an initial balance and play rounds of the slot machine until they decide to quit. 
-# Here's an overview of the project's key components and functionalities:
+#This slot machine project is a Python program that simulates the functionality of a simple slot machine game. 
+#It allows users to deposit an initial balance and play rounds of the slot machine until they decide to quit. 
+#Here's an overview of the project's key components and functionalities:
 
 # Initialization Constants:
    - `MAX_LINES`: Maximum number of lines a player can bet on.
@@ -47,7 +47,7 @@
    - The player can choose to quit the game at any point by pressing "q".
    - After exiting the game loop, the final balance is displayed.
 
-# The program simulates the process of betting on a slot machine with predefined symbols and rules, 
-# giving players a sense of winning and losing based on random outcomes. 
-# The player's goal is to accumulate more money by strategically placing bets on 
-# multiple lines to match winning symbol combinations.
+#The program simulates the process of betting on a slot machine with predefined symbols and rules, 
+#giving players a sense of winning and losing based on random outcomes. 
+#The player's goal is to accumulate more money by strategically placing bets on 
+#multiple lines to match winning symbol combinations.
